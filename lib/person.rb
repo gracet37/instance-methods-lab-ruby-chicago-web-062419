@@ -1,3 +1,5 @@
+#writing multiple instance methods
+
 class Person
   def talk 
     puts "Hello World!"
